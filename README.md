@@ -9,7 +9,7 @@ This project contains my personal solutions to Data Structures and Algorithms pr
 
 
 --------
-## 📚 Table of Contents
+## 📚 Table of Contents---
 
 - [📌 Purpose](#-purpose)
 - [🛠️ Language & Tools](#️-language--tools)
