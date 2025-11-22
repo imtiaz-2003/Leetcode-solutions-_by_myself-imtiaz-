@@ -8,7 +8,7 @@ Welcome to my LeetCode repository! 👋
 This project contains my personal solutions to Data Structures and Algorithms problems from [LeetCode](https://leetcode.com/). It serves as a learning log, a coding portfolio, and a reference for anyone preparing for technical interviews.
 
 --------
-## 📚 Table of Contents----
+## 📚 Table of Contents------
 
 - [📌 Purpose](#-purpose)
 - [🛠️ Language & Tools](#️-language--tools)
